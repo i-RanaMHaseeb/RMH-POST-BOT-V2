@@ -1,0 +1,7 @@
+# Keep your real secrets out of GitHub
+config.json
+log.json
+groups.txt
+messages_edit.txt
+__pycache__/
+*.pyc

@@ -1,0 +1,8 @@
+{
+    "bot_token": "PUT_YOUR_BOT_TOKEN_HERE",
+    "admin_ids": [
+        123456789,
+        987654321
+    ],
+    "sending_time": 10
+}
